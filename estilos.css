@@ -1,0 +1,27 @@
+.contenedor {
+    background-color: aquamarine;
+    height: 200px;
+    /* esto va a ser flexbox */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cajita1 {
+    background-color: cadetblue;
+    width: 70px;
+    height: 100px;
+}
+
+.cajita2 {
+    background-color: purple;
+    width: 70px;
+    height: 100px;
+}
+
+.cajita3 {
+    background-color: green;
+    width: 70px;
+    height: 100px;
+}
+
